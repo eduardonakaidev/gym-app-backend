@@ -1,6 +1,6 @@
 # App mobile de gerencimaneot de exercicios e treino my training
 
-### Requisitos
+### Requisitos (User aluno)
 - deve ser possivel ver o treino do dia;
 - deve ser possivel iniciar o treino do dia;
 - deve ser possivel categoriazar os exercicios;
@@ -18,6 +18,3 @@
 - deve ser possivel alterar o treino dos alunos;
 - deve ser possivel adicionar notificações aos alunos;
 - deve ser possivel ver o historico de treino dos alunos;
-
-
-
